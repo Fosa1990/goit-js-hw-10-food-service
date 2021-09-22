@@ -13,7 +13,7 @@
   font: inherit;
   font-weight: 500;
   user-select: none;
-  transition: background-color 250ms $cubic;
+  transition: background-color 250ms var(--timing-function);
 }
 
 .button:hover {
